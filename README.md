@@ -1,16 +1,14 @@
-### Hi there 👋
+# <div align="center">Hi! 👋 I'm Eugenii. 
+</div>  
+  
 
-<!--
-**shaltayb0ltay/shaltayb0ltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### School 21 graduate
+Solo practicum & experiments  
+  
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
+</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>  
